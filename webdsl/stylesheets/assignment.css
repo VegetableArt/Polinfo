@@ -1,0 +1,32 @@
+textarea{
+  height: 200px;
+  width: 595px;
+}
+.inputString{
+  width: 595px;	
+}
+.btn {
+  margin-left: 5px;
+}
+
+.mt-10 {
+  margin-top: 100px !important;
+}
+
+.badge-primary{
+	background-color: #007bff !important;
+}
+
+.list-group-item {
+	color:black !important;	
+}
+.list-group-item:active {
+	color:black !important;	
+}
+.list-group-item:hover{
+	color: #007bff !important;	
+}
+
+.list-group-item+.list-group-item {
+	color: black !important;
+}
